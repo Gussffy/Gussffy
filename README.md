@@ -4,13 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=65f794&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Gustavo+Santos+França+;I+study+Systems+Information+at+Unex;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 ### Main skills:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)&nbsp;
 ![SpringFramework](https://img.shields.io/badge/Spring%20Framework-0D1117?style=for-the-badge&logo=spring)&nbsp;  
@@ -42,4 +35,10 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65f794&height=120&section=footer"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake.svg">
+</picture>
 
