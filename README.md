@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65f794&height=120&section=header"/>
-
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65f794&height=120&section=header"/>](https://capsule-render.vercel.app/api?type=shark&color=0:65f794,100:2ecc71&height=180&section=header&text=Gustavo%20França&fontSize=50&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=65f794&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Gustavo+Santos+França+;I+study+Systems+Information+at+Unex;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
@@ -10,35 +9,35 @@
 </picture>
 
 ### Main skills:
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)&nbsp;
-![SpringFramework](https://img.shields.io/badge/Spring%20Framework-0D1117?style=for-the-badge&logo=spring)&nbsp;  
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![VBA](https://img.shields.io/badge/Visual%20Basics-0D1117?style=for-the-badge&logo=)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
  
 ### Tools:
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&labelColor=0D1117)&nbsp;
-![Web Storm](https://img.shields.io/badge/-Web%20Storm-0D1117?style=for-the-badge&logo=webstorm&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![WebStorm](https://img.shields.io/badge/WebStorm-0D1117?style=for-the-badge&logo=webstorm&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
  
 ### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)&nbsp;
   
 ### Studying in this moment:
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)&nbsp;
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot)&nbsp;  
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Mongo DB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)&nbsp; 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65f794&height=120&section=footer"/>
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)&nbsp;  
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=65f794&height=10&section=footer&reversal=true"/>
