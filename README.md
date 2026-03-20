@@ -24,6 +24,10 @@
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
+### Main Projects:
+| Project | Description | Stack |
+|---------|-----------|-------|
+| [**Aesthetics API**](https://github.com/Gussffy/aesthetics-api) | A RESTful API for managing appointments, services, and billing for aesthetics establishments — built with Java and Spring Boot. | `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `PostgreSQL` `Docker` |
  
 ### Other Knowledge:
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
